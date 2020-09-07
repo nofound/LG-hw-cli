@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "homework-cli",
   "main": "index.js",
+  "bin": "cli.js",
   "repository": "https://github.com/nofound/LG-hw-cli.git",
   "author": "王晓东 <1099079410@qq.com>",
   "license": "MIT",
