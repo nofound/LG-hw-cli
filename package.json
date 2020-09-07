@@ -9,6 +9,6 @@
   "license": "MIT",
   "dependencies": {
     "ejs": "^3.1.5",
-    "inquirer": "^7.3.3"
+    "inquirer": "^7.3.3",
   }
 }
