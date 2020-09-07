@@ -1,6 +1,6 @@
 {
   "name": "lg-hw-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "homework-cli",
   "main": "index.js",
   "bin": "cli.js",
